@@ -28,9 +28,6 @@ on:
 
 
 
-permissions:
-  contents: write
-
 jobs:
 
   generate:
