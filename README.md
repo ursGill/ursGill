@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://ursGill/ursGill/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ursGill/ursGill/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
