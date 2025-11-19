@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gurpreet Singh <br> I'm  from Amritsar 🏡<br>Currently I'm Pursuing B.Tech CSE (Specialized in AI) from Amritsar Group of Colleges 📚</h2>
+<h2 align="left">Hi 👋! I'm 😎GOPI <br> I'm  from Amritsar <br>Currently I'm Pursuing B.Tech CSE (Specialized in AI) from Amritsar Group of Colleges 📚</h2>
 
 ###
 
