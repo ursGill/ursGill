@@ -3,23 +3,10 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ursGill&show_icons=true&theme=dracula&hide_border=false)
-
----
-
-### 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ursGill&theme=dracula&hide_border=false)
-
----
-
 ### 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ursGill&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ursGill&layout=compact&theme=dracula&cache_seconds=86400)
 
-</div>
 
 </div>
 
