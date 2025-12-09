@@ -1,11 +1,28 @@
 <h2 align="left">Hi 👋! I'm 😎GOPI <br> I'm  from Amritsar <br>Currently I'm Pursuing B.Tech CSE (Specialized in AI) from Amritsar Group of Colleges 📚</h2>
 
-###
 
+<div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ursGill&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ursGill&show_icons=true&theme=dracula&hide_border=false)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ursGill&theme=dracula&hide_border=false)
+
+---
+
+### 🧠 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ursGill&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
+
 </div>
--->
+
+</div>
+
 
 ###
 
