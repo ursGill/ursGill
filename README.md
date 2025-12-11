@@ -3,9 +3,7 @@
 
 <div align="center">
 
-### 🧠 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ursGill&layout=compact&theme=dracula&cache_seconds=86400)
 
 
 </div>
